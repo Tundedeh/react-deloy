@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-deloy/static/js/main.8f2d8716.js",
+    "index.html": "/react-deloy/index.html",
+    "main.8f2d8716.js.map": "/react-deloy/static/js/main.8f2d8716.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8f2d8716.js"
+  ]
+}
